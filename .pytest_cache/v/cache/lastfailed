@@ -1,0 +1,10 @@
+{
+  "createuser/tests/test_models.py::test_model_display_title": true,
+  "createuser/tests/test_models.py::test_should_check_password": true,
+  "createuser/tests/test_models.py::test_should_not_check_unusable_password": true,
+  "createuser/tests/test_urls.py::TestUrls::test_cbv_gets_correct_object": true,
+  "createuser/tests/test_urls.py::TestUrls::test_objeclevelid_url": true,
+  "createuser/tests/test_urls.py::TestUrls::test_post_invalid_registerid_url": true,
+  "createuser/tests/test_urls.py::TestUrls::test_taskfilesid_url": true,
+  "createuser/tests/test_urls.py::test_id::test_cbv_gets_correct_object": true
+}

@@ -1,0 +1,6 @@
+[MESSAGES CONTROL]
+disable=C0301,E1101,R1710,R1705,C0412,C0115
+
+[MASTER]
+ignore=migrations
+

@@ -1,0 +1,5 @@
+[run]
+omit = createuser/tests/*
+       createuser/migrations/*
+       */env/*
+       manage.py
